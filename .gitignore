@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+docs/_build
+docs/_static
+docs/_templates
+smog/tests/configs
+smog/config
+*.pyc
+*.log
+*.yml
+.*~

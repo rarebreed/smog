@@ -1,0 +1,12 @@
+libvirt-python
+python-novaclient
+python-glanceclient
+python-keystoneclient
+python-neutronclient
+hy
+untangle
+toolz
+pyrsistent
+pyyaml
+httplib2
+mypy-lang
